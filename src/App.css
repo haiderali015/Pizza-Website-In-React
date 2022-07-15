@@ -16,3 +16,26 @@ body{
   background-position: center;
   
 }
+.banner__content{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+.container
+{
+  width: 1200px;
+  max-width: 1200px;
+  margin: 0 auto; /*is se centre men ajai ga*/
+  color: white;
+}
+.banner_text{
+  width: 500px;
+}
+
+.banner_text h3 {
+  font-size: 50px;
+}
+.banner_text h1 {
+  font-size: 80px;
+  line-height: 80px;
+}
