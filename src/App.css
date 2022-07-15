@@ -7,3 +7,10 @@
 body{
   font-family: 'Montserrat', sans-serif;
 }
+.banner{
+  width: 100%;
+  height: 100vh;
+  background: url("/public/images/pizza.jpg");
+  background-repeat: repeat;
+  background-size: cover; 
+}
