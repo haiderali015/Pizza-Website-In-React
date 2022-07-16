@@ -89,3 +89,10 @@ body{
   text-transform: uppercase;
   font-weight: 700;
 }
+
+.btn
+{
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
