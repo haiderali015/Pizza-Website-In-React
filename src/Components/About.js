@@ -11,7 +11,7 @@ const About = () => {
             <h1>Welcome to Pizza HuB</h1>
             <p>PizzA <span style={{ color: 'rgb(255, 145, 39)'}}>HuB</span> is most delicious pizza shop in Lahore, Pakistan. ORDER NOW from our website and get your food craving</p>
             <div className='banner-btn'>
-            <a href="" className='btn btn-smart'>Delivery Now</a>
+            <a href="" className='btn btn-smart'>Read More</a>
             </div>
         </div>
 

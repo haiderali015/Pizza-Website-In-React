@@ -169,3 +169,31 @@ background: rgb(206, 45, 53);
   background-attachment: fixed;
 
 }
+.shop_text{
+  height: 450px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  color: #fff;
+}
+
+.shop_text h1{
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0.5px;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.shop_btn{
+  margin-top: 35px;
+  justify-content: center;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 40px;
+}
