@@ -113,3 +113,34 @@ background: rgb(206, 45, 53);
 .about{
   padding: 80px 0;
 }
+
+.row{
+  width: 100%;
+  display: flex;
+}
+
+.col-6{
+  width: 50%;
+}
+.p-25{
+  padding: 45px;
+}
+.about h3{
+  color: rgba(37,37,37,0.7);
+  font-size: 30px;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.about h1{
+  color:#252525;
+  font-size: 40px;
+  line-height: 40px;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+.about p{
+  color: #494040;
+  font-size: 20px;
+  font-weight: 300;
+}
