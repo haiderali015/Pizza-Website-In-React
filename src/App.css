@@ -144,3 +144,15 @@ background: rgb(206, 45, 53);
   font-size: 20px;
   font-weight: 300;
 }
+.about_img
+{
+  width: 100%;
+  overflow: hidden;
+  margin-left: 60px;
+}
+
+.about_img img
+{
+  width: 80%;
+  height: 60vh;
+}
