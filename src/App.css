@@ -75,5 +75,17 @@ body{
 
 .navbar_ul
 {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 200px;
+}
 
+.navbar_ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 0 18px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
 }
