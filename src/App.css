@@ -21,13 +21,13 @@ body{
   display: flex;
   align-items: center;
   height: 100vh;
+  color: #fff;
 }
 .container
 {
   width: 1200px;
   max-width: 1200px;
   margin: 0 auto; /*is se centre men ajai ga*/
-  color: white;
 }
 .banner_text{
   width: 500px;
@@ -108,4 +108,8 @@ background: rgb(206, 45, 53);
 
 .banner-btn{
   margin-top: 30px;
+}
+
+.about{
+  padding: 80px 0;
 }
