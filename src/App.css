@@ -14,6 +14,7 @@ body{
   background-repeat: repeat;
   background-size: cover; 
   background-position: center;
+  position: relative;
   
 }
 .banner__content{
@@ -47,4 +48,17 @@ body{
   font-weight: 400;
   margin-top: 20px;
 
+}
+
+.navbar{
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.navbar_text
+{
+  display: flex;
+  height: 60px;
+  align-items: center;
 }
